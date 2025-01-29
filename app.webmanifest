@@ -1,8 +1,8 @@
 {
 	"lang": "en-EN",
-	"name": "Vite 6 React 19 — Starter",
-	"short_name": "React 19 — Starter",
-	"description": "Vite 6 React.js 19 Typescript Tailwind template",
+	"name": "How gorgeous is Ewelina?",
+	"short_name": "Ewelina",
+	"description": "How gorgeous is Ewelina? Click and find out",
 	"start_url": "/",
 	"display": "standalone",
 	"orientation": "portrait",
