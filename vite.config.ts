@@ -12,5 +12,5 @@ export default defineConfig({
       dest: path.join(__dirname, 'dist', '~partytown')
     })
   ],
-  base: "/cutielina"
+  base: "/cutielina/"
 });
