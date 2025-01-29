@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	/*
+		https://tailwindcss.com/docs/customizing-colors
+	*/
+	--primary: #f4c2c2; /* baby pink */
+	--secondary: #e89aaa; /* deeper soft pink */
+	--tertiary: #a04c5e; /* dark muted rose */
+	--color: #fff0f5; /* light pinkish-white */
+	--accent-primary: #ff4d79; /* vibrant hot pink */
+	--accent-primary-state: #c2185b; /* bold raspberry pink */
+}
